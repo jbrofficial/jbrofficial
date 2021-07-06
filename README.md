@@ -2,7 +2,7 @@
 
 𝗜'𝗺 [JBR](https://github.com/JBROFFICIAL)
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white)](https://twitter.com/jbradkare/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white)](https://twitter.com/jbr__offcial/)
 
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white)](https://github.com/jbrofficial)
 
