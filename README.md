@@ -8,7 +8,8 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jbrofficial)
 
-<img align="center" src="./assets/about.png?raw=true"/>
+<img align="JBR"/>
+<p align="center"><a href="https://avipatilweb.ml/"><img src="https://sdk.bitmoji.com/render/panel/7ff431c5-0042-4ded-81e5-a5514a9e677a-73722fee-603d-4ad6-a574-ee66da7461b3-v1.png?transparent=1&palette=1" alt="Hello" width="170" height="170"/></a></p><br>
 
 - 𝑰 𝒂𝒎 𝒂 𝑪𝒐𝒍𝒍𝒆𝒈𝒆 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 : bcom❤
 
